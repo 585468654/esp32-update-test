@@ -1,0 +1,5 @@
+{
+  "version": "0.0.2",
+  "url": "https://raw.githubusercontent.com/your-username/my-esp32-project/main/firmware/firmware-v1.1.0.bin",
+  "notes": "增加 WiFi 自動重連與 OTA 更新功能"
+}
