@@ -10,7 +10,7 @@ const char* host = "ANCCD";
 const char* ssid = "labor";
 const char* password = "98668800";
 
-const String currentVersion = "0.0.2";
+const String currentVersion = "0.0.3";
 const String versionURL = "https://raw.githubusercontent.com/585468654/esp32-update-test/main/version.json";
 
 WebServer server(80);
